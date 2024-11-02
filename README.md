@@ -14,7 +14,7 @@ An E-commerce Website built with **Spring Boot** and **H2 Database**, featuring 
 ### Screenshots
 
 #### Login Page
-![Login Page](Output\main_login_page.png)
+![Login Page](Output/main_login_page.png)
 
 The above image displays the login page of the E-commerce website. Users can log in using their email ID and password. Additionally, Google sign-in is also supported for a quicker login experience.
 
