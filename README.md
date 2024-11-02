@@ -29,12 +29,12 @@ This is the main home screen of the website, where users can browse through the 
 This page displays all available products. Users can filter products by type from the options on the left-hand side of the screen.
 
 #### Product Details
-![Product Details](Output/cart_page.png)
+![Product Details](Output/product.png)
 
 By selecting a product on the shop page and clicking the "View Product" button, users can view product details and add the item to their cart.
 
 #### Cart Page
-![Cart Page](Output/item_in_cart.png)
+![Cart Page](Output/cart_page.png)
 
 The cart page displays products added to the user's cart, allowing them to review their selections before proceeding to checkout.
 
